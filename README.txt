@@ -1,10 +1,7 @@
-VERSION 6 EXACTE LTR - REVISION 3.10
-
-Nettoyage avant publication :
-- suppression de l'option « Déviation / alternative » ;
-- suppression de l'option « Voie olympique ou accès réservé » ;
-- suppression des catégories correspondantes dans la légende et les filtres dynamiques ;
-- suppression des données associées à « Voie olympique ou accès réservé » ;
-- conservation de Fermeture totale ou partielle, Stationnement interdit et Restriction poids lourds / deux-roues.
-
-Tous les tracés et correctifs validés de la version publiée sont conservés.
+VERSION RESPONSIVE
+- Desktop : panneau latéral fixe et carte plein écran.
+- Tablette : panneau réduit, légende et sources adaptées.
+- Smartphone : carte plein écran et panneau de filtres escamotable via le bouton « Filtres ».
+- Fermeture automatique du panneau après sélection d'une mesure ou d'un secteur.
+- Compatibilité orientation portrait/paysage et unités 100dvh.
+- Contrôles tactiles agrandis et taille de police des listes fixée à 16 px pour éviter le zoom automatique sur iPhone.
